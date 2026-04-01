@@ -44,11 +44,12 @@ This project provisions and manages AWS infrastructure using Terraform. It autom
 1. Initialize Terraform
 ```bash
 terraform init
-
+```
 2. Plan Terraform
 ```bash
 terraform plan
-
+```
 3. Apply Terraform
 ```bash
 terraform apply -auto-approve
+```
